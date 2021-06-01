@@ -1,4 +1,5 @@
 # Welcome to the Developing and Extending SAP Fiori Elements Apps openSAP samples
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-elements-opensap)](https://api.reuse.software/info/github.com/SAP-samples/fiori-elements-opensap)
 
 ## Description
 This repository offers **optional hands-on exercises** for the free openSAP Course **[Developing and Extending SAP Fiori Elements Apps](https://open.sap.com/courses/fiori-ea1)**.
