@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: [YOUR REPO NAME]
-Upstream-Contact: [YOUR EMAIL ADDRESS]
-Source: https://github.com/sap-samples/[YOUR REPO NAME]
+Upstream-Name: fiori-elements-opensap
+Upstream-Contact: s.engelhardt@sap.com
+Source: https://github.com/sap-samples/fiori-elements-opensap
 Disclaimer: The code in this project may include calls to APIs (“API Calls”) of
  SAP or third-party products or services developed outside of this project
  (“External Products”).
