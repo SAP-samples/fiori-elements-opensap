@@ -445,7 +445,3 @@ The values of the **Status** field can be semantically colored to visually diffe
 ## Summary
 You have completed the exercise!
 In this unit, you have learned how to create a list report using ABAP CDS annotation.
-
-## Next Exercise
-[Week 2 Unit 1: Creating an object page](../week2/unit1.md)
-
