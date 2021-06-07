@@ -48,6 +48,7 @@ The exercises of this course require an individual OData service having a unique
 
     ![Load generator class](images/unit5/PrepareService_4.png)
 
+
 3. Assign the new package to your favorite packages
 
     To keep a better overview on your packages, add the generated package containing the service to your favorite packages by right clicking on the **Favorite Packages** container and choosing the **Add Package...** option.
@@ -71,6 +72,7 @@ The exercises of this course require an individual OData service having a unique
     Note that we will need this OData V2 service for the Analytical List Page and the Overview Page which we will create in week 3.
     
     ![Publish the services](images/unit5/PrepareService_7a.png)
+
 
 2. Publish the OData V4 service
 
