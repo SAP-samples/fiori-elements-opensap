@@ -13,7 +13,7 @@ Watch the videos of the course **Developing and Extending SAP Fiori Elements App
 
 
 ## Week 1: Introducing SAP Fiori Elements
-Find the various hands-on exercises for this week starting calendar week 23.
+Find the various hands-on exercises for this week in folder **[week1](/week1/README.md)** of this GitHub repository.
 
 
 ## Week 2: Building Your First SAP Fiori Elements App
