@@ -15,8 +15,11 @@ Last step in this unit is to install ABAP Development Tools which then gets conn
 **For the exercises of weeks 1-3 this is a prerequisite.**
 
 ## Step 1. Get a free trial account on SAP Business Technology Platform
-You need a free trial account for the SAP Business Technology Platform to do the exercises. 
-<br/>**If you already have an SAP BTP Trial account you can continue with step 2.**
+You need a free trial account for the SAP Business Technology Platform to do the exercises.
+
+**Your account needs to be assigned to either Europe or US East. Singapore is currently not supporting the ABAP environment on SAP BTP.**
+
+**If you already have an SAP BTP Trial account you can continue with step 2.**
 
 1. Open the following link in your browser: **https://www.sap.com/products/business-technology-platform/trial.html**
     
