@@ -132,7 +132,7 @@ Now you will add a custom section to your object by using the fragment you just 
 
 2. Navigate to any booking instance. You'll see a new section **Itinerary**. You can click on it or scroll down to see a nice geo map implementation.
 
-   ![](images/unit6/img_022.png)
+   ![](images/unit6/img_028.png)
 
 
 ## Step 4: Make use of building blocks provided by SAP Fiori elements
@@ -151,7 +151,8 @@ By using Fiori elements building blocks you can save implementation effort in yo
 
    
 3. Go back to your application preview. You will see on top of the geo map some additional itinerary information. As you can see although in your XML you are referring only to AgencyID the name of the agency ID is shown as well. This is the case because the AgencyID has a text annotation pointing to the agency name.
-    
+
+   ![](images/unit6/img_029.png)
 
 ## Summary
 You have completed the exercise!

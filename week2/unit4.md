@@ -17,9 +17,9 @@ The first step is to ensure you are logged into Cloud Foundry so that you can us
 
 1. Click **Terminal** and choose **New Terminal**
 
-A new terminal window will open inside of Business Application Studio.  
+    A new terminal window will open inside of Business Application Studio.  
 
-2. If your BTP Trial account is assigned to region 🇪🇺Europe type `cf login -a https://api.cf.eu10.hana.ondemand.com`, if it is assigned to the 🇺🇸US region type `cf login -a https://api.cf.us10.hana.ondemand.com` and provide your username and password to login to Cloud Foundry. If you are not sure to which region the BTP Trial account is assigned check the [BTP Cockpit](https://account.hanatrial.ondemand.com/trial/#).
+2. If your BTP Trial account is assigned to region 🇪🇺 Europe type `cf login -a https://api.cf.eu10.hana.ondemand.com`, if it is assigned to the 🇺🇸 US region type `cf login -a https://api.cf.us10.hana.ondemand.com` and provide your username and password to login to Cloud Foundry. If you are not sure to which region the BTP Trial account is assigned check the [BTP Cockpit](https://account.hanatrial.ondemand.com/trial/#).
 
 ## Step 2. Launch the Fiori generator
 
