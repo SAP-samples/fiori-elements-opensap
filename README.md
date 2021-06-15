@@ -17,7 +17,7 @@ Find the various hands-on exercises for this week in folder **[week1](/week1/REA
 
 
 ## Week 2: Building Your First SAP Fiori Elements App
-Find the various hands-on exercises for this week starting calendar week 24.
+Find the various hands-on exercises for this week in folder **[week2](/week2/README.md)** of this GitHub repository.
 
 
 ## Week 3: Using More SAP Fiori Elements Capabilities
