@@ -231,7 +231,8 @@ Instead of showing IDs for the fields Travel ID, Agency ID and Customer ID one w
     @EndUserText.label: 'Last Changed At'
     LocalLastChangedAt,
     ```
-    The semantic key for the view will be `TravelID`. The content of the field will be highlighted (bold), and  the draft indicator will be shown in case a draft exists for the respective item.
+    The semantic key for the view will be `TravelID`. The content of the field will be highlighted (bold) with the ID underneath, and  the draft indicator will be shown in case a draft exists for the respective item.
+    > Note: In the screenshot below the ID underneath the bold description in TravelID is missing. This is due to a temporary issue we had in the Preview during the time of recording.
 
 
 3. Add the corresponding annotation `@ObjectModel.semanticKey` before the definition of the view.
