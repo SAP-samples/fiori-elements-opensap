@@ -416,7 +416,7 @@ The values of the **Status** field can be semantically colored to visually diffe
     Save and activate the projection view.
 
 
-4. As a last step you need to add the criticality to the metadata extension for the Travel entity `ZC_FE_TRAVEL_######`.
+4. As a last step you need to add the criticality to the metadata extension for the Travel entity `ZFE_TRAVEL_######`.
 
     This can be done by adding the property `criticality` with value  `OverallStatusCriticality` to the `@UI.lineItem` annotation of field `OverallStatus`  (see line 5 in the coding fragment).
 
