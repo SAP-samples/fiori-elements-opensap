@@ -187,7 +187,7 @@ By using Fiori elements building blocks you can save implementation effort in yo
 
    
 3. Go back to your application preview. You will see on top of the geo map some additional itinerary information. As you can see although in your XML you are referring only to AgencyID the name of the agency ID is shown as well. This is the case because the AgencyID has a text annotation pointing to the agency name.
-
+    
    ![](images/unit6/img_029.png)
 
 ## Summary
@@ -196,3 +196,5 @@ In this unit, you have learned
 - how to add a custom section to your object page by using the Fiori Page Map
 - how to make use of building blocks provided by SAP Fiori elements
 
+## Next Exercise
+[Week 3 Unit 1: Creating an analytical list page](../week3/unit1.md)
