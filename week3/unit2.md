@@ -97,7 +97,7 @@ For this, you first have to open the guided development tool.
             <PropertyPath>CustomerName</PropertyPath>
             <PropertyPath>BookingDate</PropertyPath>
             <PropertyPath>BookingDateYear</PropertyPath>
-        </Collection>'
+        </Collection>
     </Annotation>      
     ```
 
