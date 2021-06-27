@@ -239,6 +239,9 @@ In this step, you apply the `Common.ValueList` annotation to the property used a
 
     The string used in the `ValueListProperty` must match one of the properties of the entity type corresponding to the entity set `Alphabetical_list_of_products` used as a collection path. You can check in the local metadata file, which entity type corresponds to the selected entity set.
 
+    Note: XML annotation LSP version 1.2.3. (expected on SAP BAS and VS Code marketplace on June 25, 2021) is enhanced to simplify and ensure the correctness of your input for these string values in `Common.ValueList` annotation. Since this version, you can use the code completion instead of manual typing to add the values. Additionally, your input is validated by the enhanced diagnostics and you can use Go To Definition and Peek Definition features to see how the entity set and property used in these fields are defined in the metadata.
+
+
      ![](images/unit6/img_027.png)
     
     You can also check in the local metadata file, which properties this entity type contains.  In this service, the name of the property we used in the `ValueListProperty` is the same as the property of our main entity type used in the filter but this can vary from service to service.
