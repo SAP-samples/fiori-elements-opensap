@@ -55,7 +55,7 @@ To summarize, they want you, the key user, to make the following changes to the 
 
 	![](images/unit2/img_005.png)
 
-## Step 2. Adapt the UI by making key user changese
+## Step 2. Adapt the UI by making key user changes
 
 1. Remove the "Availability" header element
 
