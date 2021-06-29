@@ -429,10 +429,5 @@ In this unit, you have learned how to use the following XML annotation LSP featu
 - Where-used lookup for annotations
 - Internationalization (i18n) support
 
-
-
-
-
-
-
-
+## Next Exercise
+[Week 4 Unit 1: Understanding SAPUI5 flexibility](../week4/unit1.md)
