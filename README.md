@@ -25,7 +25,7 @@ Find the various hands-on exercises for this week in folder **[week3](/week3/REA
         
     
 ## Week 4: Extending a Standard SAP Fiori App 
-Find the various hands-on exercises for this week starting calendar week 26.
+Find the various hands-on exercises for this week in folder **[week4](/week4/README.md)** of this GitHub repository.
         
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
