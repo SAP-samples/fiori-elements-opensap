@@ -14,6 +14,8 @@ In the following two units you will learn how to adapt an application as develop
 example standard SAP application according to requirements from your business unit. You have received the following two
 screenshots containing the desired changes.
 
+> ⚠️ Have in mind that in order to complete this and the next exercise, you should have already completed the steps described in Week 4 Unit 1 exercise - they guide you how to set up ES5 user and destination in the cockpit for this system.
+
 ![Trial Home > Home - SAP BTP Cockpit - [InPrivate] - Microsoft​ Edge](images/unit3/req1.png "Trial Home > Home - SAP BTP Cockpit - [InPrivate] - Microsoft​ Edge")
 
 ![Trial Home > Home - SAP BTP Cockpit - [InPrivate] - Microsoft​ Edge](images/unit3/req2.png "Trial Home > Home - SAP BTP Cockpit - [InPrivate] - Microsoft​ Edge")
@@ -110,6 +112,8 @@ learn how to do the fourth change, which is advanced extension.
    SAP Business application studio to the one of the newly created project. After the browser loads successfully, expand
    the webapp folder and right\-click  **manifest.appdescr\_variant**  file.
 
+   > ⚠️ Have in mind that if, while opening SAPUI5 Visual Editor, it is failing to open with 403 error, this is most probably because you have too many exposed ports in SAP Business Application Studio and you should unexpose one, so that the SAPUI5 Visual Editor can expose one for itself. Just go to View/Find command, type 'Ports: Preview' and if the count of the ports shown is 5, than type again Ports: Unexpose and select on of the ports to unexpose it. Just do not unexpose the one that is named 'Theia hosted instance', if there is such. Then you can launch again the SAPUI5 Visual Editor and it will load successfully this time. You need this procedure only if you have the 403 error while trying to load the editor, and it needs to be done just once, before the first launch ot the SAPUI5 Visual Editor for the used devspace.
+
    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_010.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
@@ -161,51 +165,51 @@ learn how to do the fourth change, which is advanced extension.
 
 
 10. Click  **Preview** to go back to preview mode and to be able to navigate to the app's single object view.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_019.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_019.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 11. Click the product placed at the top of the table to enter the single object view.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_020.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_020.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 12. Click  **Edit** to go back to Edit mode.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_021.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_021.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 13. Click the image placeholder for the product to select it.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_022.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_022.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 14. Find the dropdown list called  **Display Size**  and Select  **XL** from it. To find it easier, you can filter the
     properties list with entering the name of the field in the search bar.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_023.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_023.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 15. Click  **Preview** to see the changes that you just did in your application variant, applied over the original
     application.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_024.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_024.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 16. Click  **Edit** to go back to Edit mode.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_025.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_025.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 17. Click  **Changes** .
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_026.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_026.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 
 18. Here you can see all the changes you have done, with details about them and buttons for deletion if you want to
     revert some of it for example.
-    
-     ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_027.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
+
+    ![demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge](images/unit3/img_027.png "demospace - SAP Business Application Studio and 1 more page - [InPrivate] - Microsoft​ Edge")
 
 ## Summary
 
