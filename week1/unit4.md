@@ -17,31 +17,33 @@ Last step in this unit is to install ABAP Development Tools which then gets conn
 ## Step 1. Get a free trial account on SAP Business Technology Platform
 You need a free trial account for the SAP Business Technology Platform to do the exercises.
 
-**⚠️ Your account needs to be assigned to either Europe or US East. Singapore is currently not supporting the ABAP environment on SAP BTP.**
+>**⚠️ Your account needs to be assigned to either Europe or US East. Singapore is currently not supporting the ABAP environment on SAP BTP.**
+
+>**ℹ️ The SAP Business Technology Platform pages on SAP.com got redesigned. The steps in the exercise were updated accordingly.**
 
 **If you already have an SAP BTP Trial account you can continue with step 2.**
 
 1. Open the following link in your browser: **https://www.sap.com/products/business-technology-platform/trial.html**
     
-   ![](images/unit4/prepare-btp-1.png)
+   ![](images/unit4/prepare-btp-new-1.png)
 
 
-2. Click on the button **Start your free trial** in order to open the dialog to register.
+2. Scroll down and click on the button **Sign-up for free tier**.
    
-    ![](images/unit4/prepare-btp-2.png)
+    ![](images/unit4/prepare-btp-new-2.png)
 
 
-3. Follow the instructions to create your free trial account.
-   
-    ![](images/unit4/prepare-btp-3.png)
+3. Click on **Start Now**.
+
+   ![](images/unit4/prepare-btp-new-3.png)
 
 
-4. Once your trial account is ready get back to the SAP BTP Trial homepage and click on **Log in to the trial**.
-   
-    ![](images/unit4/prepare-btp-4.png)
-   
+4. Follow the instructions to set-up your account.
 
-5. On the welcome page you can enter the SAP BTP Cockpit by clicking on the button **Enter Your Trial Account**.
+   ![](images/unit4/prepare-btp-new-4.png)
+
+
+5. Once your trial account is ready open **https://cockpit.hanatrial.ondemand.com/**. On the welcome page you can enter the SAP BTP Cockpit by clicking on the button **Enter Your Trial Account**.
    
     ![](images/unit4/prepare-btp-5.png)
 
