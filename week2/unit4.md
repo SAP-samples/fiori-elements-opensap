@@ -42,7 +42,7 @@ The next step is to launch the SAP Fiori tools application generator.
 
 4. Next you will be asked to provide a data source to be used with the chosen floorplan.  We will choose the travel OData V4 service that you created in week 1, unit 5 as part of the OData creation exercise.  Choose the following options:
 
-    - **Connect to an SAP System** from the data source selection, then
+    - **Connect to a System** from the data source selection, then
     - **ABAP Environment on SAP Business Technology Platform**, 
     - **default-abap-trial** as the ABAP environment
     

@@ -49,7 +49,7 @@ We will be using Business Application Studio to create our application. We will 
 
 
 6. In this step we will select the data source for the project.
-    * From **Data source**, select **Connect to an SAP System**.
+    * From **Data source**, select **Connect to a System**.
     * From **System**, select **abap-cloud-default_abap-trial (SCP)**.
     * From **Service**, select **ZUI_FE_BOOKING_######_O2(1) * OData V2**
     * Click **Next**

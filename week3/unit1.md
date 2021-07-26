@@ -32,7 +32,7 @@ The first step is to create your SAP Fiori elements project using the Analytical
 
 4. In this template step we connect to the SAP backend system and select the service which we created in the [Week 1 Unit 5](https://github.wdf.sap.corp/fe-opensap/exercise/week1/unit5.md).
 
-   Choose **Connect to an SAP System** from the dropdown field **Data source**.
+   Choose **Connect to a System** from the dropdown field **Data source**.
     
     ![](images/unit1/img_003.png)
     <br>
