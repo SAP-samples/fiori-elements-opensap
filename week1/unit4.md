@@ -10,18 +10,13 @@ First you will create a trial account on SAP Business Technology Platform (SAP B
 
 After that, the ABAP environment on SAP BTP needs to be set up. We use SAP BTP as it’s very easy to get an ABAP environment. Also, you are always working on the latest version of ABAP platform which gives you access to the latest features and improvements.
 
-Last step in this unit is to install ABAP Development Tools which then gets connected to the ABAP environment on SAP BTP.
+Also, you will install ABAP Development Tools which then gets connected to the ABAP environment on SAP BTP.
 
 **For the exercises of weeks 1-3 this is a prerequisite.**
 
 ## Step 1. Get a free trial account on SAP Business Technology Platform and set up the ABAP Environment
 The current description for the setup is on the following page. Please work your way carefully through the whole page:
 [developers.sap.com/tutorials/abap-environment-trial-onboarding.html](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-## Step 2. Install ABAP Development tools
-In order to work with ABAP environment on SAP BTP you need to download and install ABAP Development Tools.
-All required steps are documented on the following page: [developers.sap.com/tutorials/abap-install-adt.html](https://developers.sap.com/tutorials/abap-install-adt.html).
-
 
 ## Summary
 You have completed the exercise!
