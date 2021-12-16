@@ -31,7 +31,7 @@ In this step you will activate the flexible column layout. This feature allows t
 
 2. The Page Map tool opens at the right part of SAP Business Application Studio. In the left area it shows the UI structure of your application listing the tiles for your list report and for the object page. On the right area labeled as **Global Page Settings** you can select the **Layout Settings**. Choose option **Flexible Column Layout** and then select the **Mid-Expanded** option for the two columns layout. Leave the default for the three columns layout unchanged.
 
-    When done, press the **Apply** button and wait until you get the confirmation message indicating that the settings were applied.
+    When you work with the latest version of SAP Fiori tools there is no **Apply** button anymore. The change will immediately be applied then.
 
     ![The Page Map with page map and layout settings](images/unit5/SetFCL_2.png)
 
