@@ -49,8 +49,6 @@ In this step you will add annotations to show a title and a subtitle in the obje
     Click **Save** and **Activate**.
 
 2. Refresh the browser window. You will see an object page containing a title and a subtitle in the header and an empty content section.
-
-   >Note: Due to a temporary issue in the preview version which is currently active in Eclipse, Description and Travel are falsely shown in content area. This will disappear as soon as we start adding content to the header (next step).
   
    ![App object page title](images/unit1/t3-app-object-page-title.png)
 
