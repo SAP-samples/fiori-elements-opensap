@@ -137,7 +137,7 @@ To summarize, they want you, the key user, to make the following changes to the 
 
 	![](images/unit2/img_020.png)
 
-	Select **Supplier**.  <!--![](images/unit2/fieldicon19.png).-->
+    Select **Supplier**, then confirm your selection by clicking "OK".  <!--![](images/unit2/fieldicon19.png).-->
 
 	![](images/unit2/img_021.png)
 
