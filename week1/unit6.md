@@ -231,21 +231,18 @@ Instead of showing IDs for the fields Travel ID, Agency ID and Customer ID one w
     @EndUserText.label: 'Last Changed At'
     LocalLastChangedAt,
     ```
-    The semantic key for the view will be `TravelID`. The content of the field will be highlighted (bold) with the ID underneath, and  the draft indicator will be shown in case a draft exists for the respective item.
-    > Note: In the screenshot below the ID underneath the bold description in TravelID is missing. This is due to a temporary issue we had in the Preview during the time of recording.
-
-
-3. Add the corresponding annotation `@ObjectModel.semanticKey` before the definition of the view.
-
+    The semantic key for the view is `TravelID` and was automatically added by the generator. The content of the field will be highlighted (bold) with the ID underneath, and  the draft indicator will be shown in case a draft exists for the respective item.
+   You can find it in your ZC_FE_TRAVEL_###### view: 
     ```CDS
-    ...
-    @Search.searchable: true
+   ...
+   @Search.searchable: true
 
-    @ObjectModel.semanticKey: ['TravelID']
+   @ObjectModel.semanticKey: ['TravelID']
 
-    define root view entity ZC_FE_TRAVEL_######
-    ...
+   define root view entity ZC_FE_TRAVEL_######
+   ...
     ```
+   > Note: In the screenshot below the ID underneath the bold description in TravelID is missing. This is due to a temporary issue we had in the Preview during the time of recording.
 
     After saving and activating the file and refreshing the application you will see the changed labels and content for the fields **Travel**, **Agency**, **Customer**, **Status** and **Last Changed At**.
 
@@ -396,7 +393,7 @@ The values of the **Status** field can be semantically colored to visually diffe
 
     ![overall status criticality](images/unit6/StatusCriticality_2.png)
 
-    Save and activate the draft table and then activate also the behavior definition file `ZI_FE_TRAVEL_######` which is still open in your editor. The error disappears as soon as the behavior definition is activated.
+    Save and activate the draft table and then activate also the behavior definition file `ZI_FE_TRAVEL_######` which is still open in your editor. The error disappears as soon as the behavior definition is activated. If ADT still shows the error, close the behavior definition and open it again.
 
 
 3. To be able to use the new field within UI annotations you need to take it over to the projection view of the travel entity `ZC_FE_TRAVEL_######`. Insert the field `OverallStatusCriticality` just below the definition for the field `OverallStatus` (see line 7 in the coding fragment).
