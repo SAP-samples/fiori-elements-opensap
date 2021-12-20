@@ -49,6 +49,7 @@ In this step you will add annotations to show a title and a subtitle in the obje
     Click **Save** and **Activate**.
 
 2. Refresh the browser window. You will see an object page containing a title and a subtitle in the header and an empty content section.
+   By the time the screenshot got created the subtitle falsely showed the text as subtitle. This was corrected in the meantime, and it shows the ID now.
   
    ![App object page title](images/unit1/t3-app-object-page-title.png)
 
