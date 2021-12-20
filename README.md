@@ -10,8 +10,13 @@ This repository offers **optional hands-on exercises** for the free openSAP Cour
     
 ## Requirements
 Watch the videos of the course **Developing and Extending SAP Fiori Elements Apps** available on the openSAP platform. _([Free access to the openSAP course](https://open.sap.com/courses/fiori-ea1))_    
-       
-       
+
+##How to obtain support
+For weeks 1-3, ask your question in the [SAP Fiori elements community](https://community.sap.com/topics/fiori-elements).
+
+For week 4, ask your question in the [SAPUI5 community](https://community.sap.com/topics/ui5).
+
+
 ## Week 1: Introducing SAP Fiori Elements
 Find the various hands-on exercises for this week in folder **[week1](/week1/README.md)** of this GitHub repository. 
         
