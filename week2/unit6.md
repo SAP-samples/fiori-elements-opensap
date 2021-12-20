@@ -105,7 +105,7 @@ Now you will add a custom section to your object by using the fragment you just 
    You see the current settings of the object page and the available section. Let's add a new section.
 
 
-4. Click on the **Add** button next to **Sections**. 
+4. Click on the **Add** button next to **Sections** and choose **Add Custom Section**.
 
    ![](images/unit6/img_015.png)
 
@@ -127,7 +127,7 @@ Now you will add a custom section to your object by using the fragment you just 
 
 ## Step 3: Test your application
 
-1. Start the preview  as described in [Hands-On exercise for week 1 unit 6: Creating a list report](../week1/unit6.md). 
+1. Start the app preview. 
 
 
 2. Navigate to any booking instance. You'll see a new section **Itinerary**. You can click on it or scroll down to see a nice geo map implementation.
