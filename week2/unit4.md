@@ -113,6 +113,7 @@ The next step is to launch the SAP Fiori tools application generator.
     
     Due to a temporary issue it can occur, that an error message is shown when the preview gets opened in the browser. 
     In that case simply close the dialog and click on the tile "Travel List".
+
     ![](images/unit4/StartApp_7.png)
     ![](images/unit4/StartApp_6.png)
 
