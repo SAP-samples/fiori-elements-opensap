@@ -109,7 +109,7 @@ Let’s start by creating an Analytical card that will help us understand the Da
 
 We start by generating a UI Chart annotation. In this annotation, we will supply dimension and measure for the chart. We will also define the chart type we are going to use.
 
-1. Select **Booking** as **Entity Type**.
+1. Select **BookingType** as **Entity Type**.
 
     ![](images/unit3/img_011.png)
 
@@ -421,7 +421,7 @@ We will start by creating UI.DataPoint annotation for different travel start dat
     ![](images/unit3/img_047.png)
 
 
-2. Select **Travel** from **Entity Type** dropdown.
+2. Select **TravelType** from **Entity Type** dropdown.
 
     ![](images/unit3/img_048.png)
 
@@ -567,7 +567,7 @@ We have the data point annotation for the beginDate property. Let's start by cre
     ![](images/unit3/img_060.png)
 
 
-4. Enter the following in New Column Parameters section,
+4. Click on the **Reset** button, then enter the following in New Column Parameters section,
     * Enter **AcceptedTravels** as **Qualifier**.
     * Select **Description** from **Property** dropdown.
     * Enter **Travel** as **Label**.
@@ -902,7 +902,7 @@ In this step we will provide card manifest settings.
 
 2. Enter the following in the **Table Card Settings Parameters**,
     * Enter **Travel List** as **Title**.
-    * Select **Travel** from **Entity Type** dropdown.
+    * Select **TravelType** from **Entity Type** dropdown.
     * Select **BeginDate** from **Sort By** dropdown.
     * Select **Ascending** from **Sort Order** dropdown.
     * Select **Yes** from **Tabs** dropdown.
