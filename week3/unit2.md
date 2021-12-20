@@ -65,7 +65,7 @@ For this, you first have to open the guided development tool.
     ![](images/unit2/img_009.png) <br>
 
 
-9. The above step is repeated as many as times as needed to add other columns to the table.
+9. The above step is repeated as many as times as needed to add other filters to the filter bar.
 
     Choose **AgencyID**  and click **Insert Snippet**.
 

@@ -324,7 +324,7 @@ In this step, you will configure the chart to be displayed in the Analytical Lis
     </Annotation>
     <Annotation Term="UI.PresentationVariant">
         <Record Type="UI.PresentationVariantType">
-        <PropertyValue Property="Text" String="Default">
+        <PropertyValue Property="Text" String="Default"/>
              <PropertyValue Property="SortOrder">
                 <Collection>
                     <Record Type="Common.SortOrderType">
