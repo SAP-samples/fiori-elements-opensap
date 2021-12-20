@@ -57,7 +57,7 @@ The first step is to create your SAP Fiori elements project using the Analytical
 
     ![](images/unit1/img_007.png)
     <br><br>
-    Choose **Analytical** from the dropdown field **Table type**. 
+    **Table type** should be **Analytical**. 
 
     ![](images/unit1/img_008.png)
    <br><br>
@@ -122,7 +122,7 @@ In this step, you will configure the columns displayed in the table of the Analy
     ![](images/unit1/img_017.png)
 
 
-2. Scroll to the Analytical List Page group and select the guide **Add a new column to the table**.
+2. Scroll to the Analytical List Page group and select the guide **Add and edit table columns**.
 
     ![](images/unit1/img_018.png)
 
