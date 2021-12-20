@@ -297,37 +297,17 @@ In this part of the exercise we will enable the Launchpad service in your cloud 
 
 In order to manage SAP Fiori launchpads, you need to add the launchpad role to your user. 
 
-1. Expand `Security` in the navigation bar on the left and click on `Trust Configuration`.
+1. Expand `Security` in the navigation bar on the left and click on `Users`. In the users list click on the row with your user name.
 
-    ![](images/unit4/B_img_006.png)
+    ![](images/unit4/users1.png)
 
-1. Click on `Default identity provider`.
+1. In the section `Role Collections` click on the button with the three dots, then on `Assign Role Collection`.
 
-    ![](images/unit4/B_img_007.png)
+    ![](images/unit4/users2.png)
 
+1. In the dialog search for `launchpad`, check the checkbox at `Launchpad Admin`, then click on `Assign Role Collection`.
 
-1. In field `E-Mail Address` enter the email address of your user and click `Show Assignments`.
-
-    ![](images/unit4/B_img_008.png)
-
-
-1. Click on `Assign Role Collection`.
-
-    ![](images/unit4/B_img_009.png)
-
-
-1. From the dropdown list select `Launchpad_Admin`.
-
-    ![](images/unit4/B_img_010.png)
-
-
-1. Click button `Assign Role Collection`.
-
-    ![](images/unit4/B_img_011.png)
-
-1. Navigate back to the `trial` subaccount.
-
-    ![](images/unit4/B_img_012.png)
+    ![](images/unit4/users3.png)
 
 
 
