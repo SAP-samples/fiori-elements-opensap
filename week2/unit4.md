@@ -51,8 +51,9 @@ The next step is to launch the SAP Fiori tools application generator.
    ![](images/unit4/CreateApp_4.png)
   
 
-5. Now choose a main entity for the list report and an optional navigation entity.  The options available will be dependent on the entities that are contained in the OData service you selected in the previous step.  In this case, choose **Travel** as the main entity and leave the optional navigation entity as **None**, then click **Next**. 
-
+5. Now choose a main entity for the list report and an optional navigation entity.  The options available will be dependent on the entities that are contained in the OData service you selected in the previous step.  In this case, choose **Travel** as the main entity and leave the optional navigation entity as **None**, then click **Next**.
+   <br><br> 
+   ⚠️ Choose **No** at the newly introduced radio button selection for "Automatically add table columns to the list page and a section to the object page if none already exists?". 
     ![](images/unit4/CreateApp_5.png)
 
   
@@ -109,7 +110,10 @@ The next step is to launch the SAP Fiori tools application generator.
 
   
 13. The application will load and you should see the list report with the travel details from the associated OData service.
-
+    
+    Due to a temporary issue it can occur, that an error message is shown when the preview gets opened in the browser. 
+    In that case simply close the dialog and click on the tile "Travel List".
+    ![](images/unit4/StartApp_7.png)
     ![](images/unit4/StartApp_6.png)
 
   
