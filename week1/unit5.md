@@ -33,7 +33,7 @@ The exercises of this course require an individual OData service having a unique
 
     ![Load generator class](images/unit5/PrepareService_1.png)
 
-    The name of the class is **`/DMO/CL_FE_TRAVEL_GENERATOR`**. Select the class within the **Open ABAP Development Object** dialog and confirm the dialog by pressing the **OK** button.
+    The name of the class is **`ZDMO_CL_FE_TRAVEL_GENERATOR`**. Select the class within the **Open ABAP Development Object** dialog and confirm the dialog by pressing the **OK** button.
 
     ![Load generator class](images/unit5/PrepareService_2.png)
 
